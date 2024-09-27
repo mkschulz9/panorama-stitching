@@ -1,6 +1,10 @@
 # Panorama Stitching Project
 
-Welcome to the Panorama Stitching Project repository! This repository contains a Jupyter Notebook (`.ipynb` file) that demonstrates how to stitch multiple images together to create a seamless panoramic image using computer vision techniques.
+<div align="center">
+  <img src="final_panorama.png" alt="Final Panorama" width="800" height="400">
+</div>
+
+Welcome to the Panorama Stitching Project repository! This repository contains a Jupyter Notebook (`.ipynb` file) that demonstrates how to stitch multiple images together to create a panoramic image using computer vision techniques. Check out the notebook for a detailed guide!
 
 ## Overview
 
@@ -14,4 +18,4 @@ This project explores creating a panoramic image by stitching overlapping photog
 ## Contents
 
 - **`panorama_stitching.ipynb`**: The Jupyter Notebook containing the full code implementation, detailed explanations, and visualizations of each step in the panorama stitching process.
-- **sample_imgs.zip**: A zip file containing the input images used in the notebook to demonstrate the stitching process.
+- **`input_images.zip`**: A zip file containing the input images used in the notebook to demonstrate the stitching process.
